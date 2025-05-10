@@ -1,7 +1,7 @@
 
 
 
-# Sentiment Analysis and Mental Health Support System
+# MindMate: An AI Companion for Emotional Wellness 
 
 ## 🧠 Project Overview
 This project implements a sophisticated sentiment analysis and mental health support system that combines multiple AI technologies to provide personalized assistance. The system uses sentiment analysis to understand user emotions and provides context-aware responses through a conversational interface.
